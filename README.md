@@ -1,5 +1,5 @@
 # MEAN-edunow
-![edunow logo](logo3.png)
+![edunow logo](logo.png)
 
 # [![MEAN Logo](http://mean.io/system/assets/img/logos/meanlogo.png)](http://mean.io/) 
 
